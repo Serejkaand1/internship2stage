@@ -6,7 +6,6 @@ body {
 .head {
   height: 157px;
   width: 100%;
-  border: 1px solid black;
 }
 
 .header_menu {
@@ -676,7 +675,6 @@ footer {
   position: relative;
   width: 1920px;
   height: 254px;
-  border: 1px solid black;
 }
 footer img {
   position: absolute;

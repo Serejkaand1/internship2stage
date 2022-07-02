@@ -60,7 +60,7 @@ body {
 }
 
 .phone span::before {
-  content: url(/img/vector.png);
+  content: url(img/vector.png);
   position: relative;
   right: 10px;
 }
@@ -81,7 +81,7 @@ body {
 .main_banner {
   width: 1920px;
   height: 738px;
-  background-image: url(/img/background.png);
+  background-image: url(img/background.png);
   position: relative;
 }
 
@@ -275,7 +275,6 @@ body {
   line-height: 60px;
   text-align: center;
   color: #24173D;
-  border: 1px solid #030303;
   position: absolute;
   top: 938px;
   left: 707px;
@@ -478,7 +477,7 @@ body {
 }
 
 .photo_1 {
-  background-image: url(/img/01.jpg);
+  background-image: url(img/01.jpg);
 }
 
 .photo_1 span {
@@ -487,7 +486,7 @@ body {
 }
 
 .photo_2 {
-  background-image: url(/img/02.jpg);
+  background-image: url(img/02.jpg);
 }
 
 .photo_2 span {
@@ -495,7 +494,7 @@ body {
 }
 
 .photo_3 {
-  background-image: url(/img/03.jpg);
+  background-image: url(img/03.jpg);
 }
 
 .photo_3 span {
@@ -541,7 +540,7 @@ body {
 }
 
 .photo_4 {
-  background-image: url(/img/04.jpg);
+  background-image: url(img/04.jpg);
 }
 
 .photo_4 span {
@@ -549,7 +548,7 @@ body {
 }
 
 .photo_5 {
-  background-image: url(/img/05.jpg);
+  background-image: url(img/05.jpg);
 }
 
 .photo_5 span {
@@ -653,7 +652,7 @@ body {
 .contact_form {
   width: 1920px;
   height: 398px;
-  background-image: url(/img/Rectangle\ 146.jpg);
+  background-image: url(img/Rectangle\ 146.jpg);
   padding: 80px 430px 90px 430px;
 }
 

@@ -15,10 +15,12 @@ body {
   width: 1600px;
   height: 80px;
 }
+
 .header_menu img {
   position: absolute;
 }
-.header_menu > span {
+
+.header_menu>span {
   position: absolute;
   left: 302px;
   top: 8px;
@@ -43,6 +45,7 @@ body {
   width: 558px;
   height: 50px;
 }
+
 .phone span {
   position: relative;
   top: 13px;
@@ -55,11 +58,13 @@ body {
   text-align: center;
   color: #24173D;
 }
+
 .phone span::before {
   content: url(/img/vector.png);
   position: relative;
   right: 10px;
 }
+
 .phone input {
   width: 250px;
   height: 50px;
@@ -87,9 +92,11 @@ body {
   top: 93px;
   left: 160px;
 }
+
 .main_banner_text .text_first {
   height: 186px;
 }
+
 .main_banner_text .text_head {
   font-family: "Montserrat";
   font-style: normal;
@@ -99,6 +106,7 @@ body {
   text-transform: uppercase;
   color: #FFFFFF;
 }
+
 .main_banner_text .text_main {
   position: relative;
   top: 20px;
@@ -110,14 +118,17 @@ body {
   text-transform: uppercase;
   color: #FFFFFF;
 }
+
 .main_banner_text img {
   position: relative;
   left: 96px;
 }
+
 .main_banner_text .text_second {
   position: relative;
   top: 30px;
 }
+
 .main_banner_text .text_second .text_head_second {
   font-family: "Montserrat";
   font-style: normal;
@@ -126,6 +137,7 @@ body {
   line-height: 60px;
   color: #FFFFFF;
 }
+
 .main_banner_text .text_second .text_main_second {
   position: relative;
   top: 20px;
@@ -136,6 +148,7 @@ body {
   line-height: 33px;
   color: #FFFFFF;
 }
+
 .main_banner_text .text_second .text_main_second .gold_text {
   font-family: "Montserrat";
   font-style: normal;
@@ -157,7 +170,7 @@ body {
   background: #FFC633;
   box-shadow: 10px 25px 45px rgba(0, 0, 0, 0.15);
   -webkit-backdrop-filter: blur(10px);
-          backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
   border-radius: 30px;
 }
 
@@ -168,6 +181,7 @@ body {
   top: 50px;
   left: 150px;
 }
+
 .form_text .form_text_heading {
   font-family: "Montserrat";
   font-style: normal;
@@ -179,6 +193,7 @@ body {
   text-transform: uppercase;
   color: #24173D;
 }
+
 .form_text .form_text_main {
   font-family: "Montserrat";
   font-style: normal;
@@ -190,6 +205,7 @@ body {
   text-transform: uppercase;
   color: #24173D;
 }
+
 .form_text .form-text_white {
   font-family: "Montserrat";
   font-style: normal;
@@ -210,9 +226,11 @@ body {
   top: 251px;
   left: 50px;
 }
+
 .form_action input {
   border-radius: 5px;
 }
+
 .form_action .form_white {
   width: 385px;
   height: 65px;
@@ -222,10 +240,12 @@ body {
   font-size: 19px;
   line-height: 23px;
 }
+
 .form_action .form_number {
   position: relative;
   float: right;
 }
+
 .form_action .form_button {
   padding: 10px 20px;
   gap: 10px;
@@ -281,6 +301,7 @@ body {
   left: 90px;
   top: 90px;
 }
+
 .benefits_first span {
   font-family: "Montserrat";
   font-style: normal;
@@ -301,6 +322,7 @@ body {
   left: 630px;
   top: 90px;
 }
+
 .benefits_second span {
   font-family: "Montserrat";
   font-style: normal;
@@ -321,6 +343,7 @@ body {
   right: 90px;
   top: 90px;
 }
+
 .benefits_third span {
   font-family: "Montserrat";
   font-style: normal;
@@ -341,6 +364,7 @@ body {
   left: 90px;
   top: 263px;
 }
+
 .benefits_fourth span {
   font-family: "Montserrat";
   font-style: normal;
@@ -361,6 +385,7 @@ body {
   left: 630px;
   top: 263px;
 }
+
 .benefits_five span {
   font-family: "Montserrat";
   font-style: normal;
@@ -381,6 +406,7 @@ body {
   right: 90px;
   top: 263px;
 }
+
 .benefits_six span {
   font-family: "Montserrat";
   font-style: normal;
@@ -419,6 +445,7 @@ body {
   display: inline-block;
   padding: 291px 190px 30px 190px;
 }
+
 .photo_image_up input {
   padding: 10px 20px;
   gap: 10px;
@@ -436,6 +463,7 @@ body {
   display: block;
   margin-top: 20px;
 }
+
 .photo_image_up span {
   font-family: "Montserrat";
   font-style: normal;
@@ -445,7 +473,6 @@ body {
   text-align: center;
   letter-spacing: 0.05em;
   color: #FFFFFF;
-  opacity: 0.2;
   margin: auto;
   display: block;
 }
@@ -453,13 +480,16 @@ body {
 .photo_1 {
   background-image: url(/img/01.jpg);
 }
+
 .photo_1 span {
+  opacity: 0.2;
   color: #FFFFFF;
 }
 
 .photo_2 {
   background-image: url(/img/02.jpg);
 }
+
 .photo_2 span {
   color: #FFFFFF;
 }
@@ -467,6 +497,7 @@ body {
 .photo_3 {
   background-image: url(/img/03.jpg);
 }
+
 .photo_3 span {
   color: #FFFFFF;
 }
@@ -477,6 +508,7 @@ body {
   display: inline-block;
   padding: 291px 190px 30px 190px;
 }
+
 .photo_image_dawn input {
   padding: 10px 20px;
   gap: 10px;
@@ -494,6 +526,7 @@ body {
   display: block;
   margin-top: 20px;
 }
+
 .photo_image_dawn span {
   font-family: "Montserrat";
   font-style: normal;
@@ -503,7 +536,6 @@ body {
   text-align: center;
   letter-spacing: 0.05em;
   color: #FFFFFF;
-  opacity: 0.2;
   margin: auto;
   display: block;
 }
@@ -511,6 +543,7 @@ body {
 .photo_4 {
   background-image: url(/img/04.jpg);
 }
+
 .photo_4 span {
   color: #FFFFFF;
 }
@@ -518,6 +551,7 @@ body {
 .photo_5 {
   background-image: url(/img/05.jpg);
 }
+
 .photo_5 span {
   color: #FFFFFF;
 }
@@ -556,6 +590,7 @@ body {
   padding: 50px;
   float: right;
 }
+
 .discont_table .discont_column_white {
   display: block;
   margin: auto;
@@ -595,6 +630,7 @@ body {
   width: 140px;
   height: 210px;
 }
+
 .discont_table_column_2 .discont_column_heading {
   width: 140px;
   height: 93px;
@@ -606,6 +642,7 @@ body {
   width: 194px;
   height: 210px;
 }
+
 .discont_table_column_3 .discont_column_heading {
   width: 194px;
   height: 93px;
@@ -651,6 +688,7 @@ body {
   height: 57px;
   margin-top: 60px;
 }
+
 .conact_form_button .form_white {
   width: 385px;
   height: 57px;
@@ -661,6 +699,7 @@ body {
   line-height: 17px;
   border-radius: 5px;
 }
+
 .conact_form_button .form_button {
   justify-content: center;
   align-items: center;
@@ -676,12 +715,14 @@ footer {
   width: 1920px;
   height: 254px;
 }
+
 footer img {
   position: absolute;
   top: 70px;
   left: 857px;
 }
-footer > span {
+
+footer>span {
   display: block;
   width: 447px;
   height: 34px;
@@ -696,6 +737,9 @@ footer > span {
   top: 205px;
   left: 737px;
 }
-footer > span .gold {
+
+footer>span .gold {
   color: #F8B500;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
